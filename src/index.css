@@ -1,0 +1,46 @@
+body {
+  line-height: 1;
+  margin: 0;
+  font-family: 'Roboto Condensed', 'Oxygen',
+    'Ubuntu', 'Cantarell', 'Fira Sans', 'Droid Sans', 'Helvetica Neue',
+    sans-serif;
+  background: #f3f3f3;
+  color: rgb(61, 56, 56);
+}
+
+h1, h2, h3, h4, h5, h6{
+  font-family: 'Oswald', sans-serif;
+}
+
+h1{
+  font-size: 2rem;
+}
+
+h3{
+  font-size: 1.6rem;
+}
+
+a:hover,
+a:focus,
+a:active{
+  color: #487922;
+  text-decoration: none;
+}
+
+.skin_color{color: #487922;}
+
+.container{
+  max-width: 1200px;
+  margin: 0 auto;
+}
+
+main, .site-content{
+  background-color: #f3f3f3;
+  box-shadow: 0 2px 4px 0 rgba(0, 0, 0, 0.8);
+  padding: 30px 20px;
+}
+
+code {
+  font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
+    monospace;
+}
