@@ -1,3 +1,6 @@
+#You can find this site open [https://react-exchange-rate.web.app/](https://react-exchange-rate.web.app/)
+(Without adaptive for phones)
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
